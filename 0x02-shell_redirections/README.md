@@ -2,7 +2,7 @@
 2.confused smiley
 3.display contents of 2 files
 4.last 10 lines of a file
-5.
+5.Display the first 10 lines of a file
 6.display 3rd line of file iacta
 7.Create a file
 8.write result of a command to a file
